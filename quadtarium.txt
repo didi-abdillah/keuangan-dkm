@@ -3,4 +3,4 @@ Quadtarium Project
 - The Quadtarium base
 - The Quadvarium
 - Change To Quadvarium
-- Octavarium Barrack
+- Octavarium Freezer
