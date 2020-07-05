@@ -2,3 +2,5 @@ Quadtarium Project
 - The Quadtarium master
 - The Quadtarium base
 - The Quadvarium
+- Change To Quadvarium
+- Octavarium Barrack
